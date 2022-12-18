@@ -1,4 +1,1 @@
-Example
-==
-
-This is an example markdown file to sync.
+This is an example document to test the sync feature
