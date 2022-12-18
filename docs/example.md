@@ -1,0 +1,1 @@
+This is an example document to test sync feature
