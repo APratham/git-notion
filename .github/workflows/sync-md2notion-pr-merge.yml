@@ -1,9 +1,6 @@
 name: Sync md files to notion when PR merged
 
 on:
-  push:
-    branches:
-      - main
   pull_request:
     types: [closed]
 
