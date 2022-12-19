@@ -26,8 +26,6 @@ jobs:
               ${{ runner.os }}-
         - name: Install dependencies
           run: |
-            pip uninstall notion
-            pip install -r requirements.in
             python -m pip install --upgrade pip git-notion
         - name: Sync md doc
           run: |
